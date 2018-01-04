@@ -1,5 +1,5 @@
 {
-  "name": "express-mysql-session",
+  "name": "@simpo/express-mysql-session",
   "description": "A MySQL session store for express.js",
   "version": "1.2.2",
   "main": "index.js",
